@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1422476618 source:d:\estructura de datos\estructuratarea2-master\estructuratarea2-master\evaluador.cpp
+	"Evaluador.h"
+
+1422476618 d:\estructura de datos\estructuratarea2-master\estructuratarea2-master\evaluador.h
+	<iostream>
+	<queue>
+	<list>
+
+1423243144 source:d:\estructura de datos\estructuratarea2-master\estructuratarea2-master\main.cpp
+	"Evaluador.h"
+	<iostream>
+	<queue>
+	<list>
+	<set>
+
